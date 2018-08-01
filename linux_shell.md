@@ -3,11 +3,12 @@ title: linux命令积累
 categories: linux
 tags: shell
 ---
-.
-<!-- more -->
+
+
 
 
 ## 一、uniq     linux中去重命令
+<!-- more -->
 ```shell
 [#45#root@6b1092cdb680 nginx]# cat /proc/cpuinfo | grep "cpu cores"
 cpu cores    : 4

@@ -3,10 +3,11 @@ title: golang字符串与时间戳转换
 categories: go
 tags: go
 ---
-.
-<!-- more -->
+
+
 
 Go语言中，获取时间戳用time.Now().Unix()，格式化时间用t.Format，解析时间用time.Parse。
+<!-- more -->
 看实例代码：
 ```
 package main

@@ -3,12 +3,13 @@ title: git study
 categories: git
 tags: git
 ---
-.
-<!-- more -->
+
+
 ## **生成ssh秘钥**
 ```
 ssh-keygen -t rsa -C "YOUR_EMAIL@YOUREMAIL.COM"
 ```
+<!-- more -->
 ## 将ssh-key复制到github中
 ssh-key 存放位置cat ~/.ssh/id_rsa.pub
 将ssh-key复制到github中SSH keys位置即可。

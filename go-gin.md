@@ -3,10 +3,11 @@ title: golang gin框架应用
 categories: golang
 tags: golang
 ---
-.
-<!-- more -->
+
+
 
 ## main.go
+<!-- more -->
 ```
 package main
 
